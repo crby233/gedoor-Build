@@ -113,4 +113,4 @@ if [ $SECRETS_MINIFY = 'true' ]; then
 fi
 
 #准备工作在这里,可以删除你不需要的
-app_clear_18plus;app_rename;app_sign;app_live_together;app_not_apply_plugin
+app_clear_18plus;app_sign
